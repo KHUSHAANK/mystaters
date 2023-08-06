@@ -1,0 +1,86 @@
+<HTML>
+<HEAD>
+
+<TITLE>
+Project SUN</title>
+
+</HEAD>
+<BODY background="Project 3.jpg">
+<font size="3"color="orange"face="arial black">
+ <a name="KTS">
+ <marquee><img src="download.jpg" height="160" width="200"></marquee>
+<h1>SUN<h1>
+<font size="3"color="red"face="arial black">
+
+   <P ALIGN="left">The Sun is the star at the center of the Solar System. It is a nearly perfect ball of hot plasma,Heated to incandescence by nuclear fusion reactions in its core, radiating the energy mainly as visible light, ultraviolet light, and infrared radiation. It is by far the most important source of energy for life on Earth. Its diameter is about 1.39 million kilometers (864,000 miles), or 109 times that of Earth. Its mass is about 330,000 times that of Earth, and it accounts for about 99.86% of the total mass of the Solar System. Roughly three quarters of the Sun's mass consists of hydrogen (73%); the rest is mostly helium (25%), with much smaller quantities of heavier elements, including oxygen, carbon, neon and iron.
+</font>
+
+<font size="3"color="red"face="arial black">
+   <P ALIGN="left">According to its spectral class, the Sun is a G-type main-sequence star (G2V). As such, it is informally, and not completely accurately, referred to as a yellow dwarf (its light is closer to white than yellow). It formed approximately 4.6 billion years ago from the gravitational collapse of matter within a region of a large molecular cloud. Most of this matter gathered in the center, whereas the rest flattened into an orbiting disk that became the Solar System. The central mass became so hot and dense that it eventually initiated nuclear fusion in its core. It is thought that almost all stars form by this process.
+</font>
+<font size="3"color="orange"face="arial black">
+<P ALIGN="left">The Sun's core fuses about 600 million tons of hydrogen into helium every second, converting 4 million tons of matter into energy every second as a result. This energy, which can take between 10,000 and 170,000 years to escape the core, is the source of the Sun's light and heat. When hydrogen fusion in its core has diminished to the point at which the Sun is no longer in hydrostatic equilibrium, its core will undergo a marked increase in density and temperature while its outer layers expand, eventually transforming the Sun into a red giant. It is calculated that the Sun will become sufficiently large to engulf the current orbits of Mercury and Venus, and render Earth uninhabitable – but not for about five billion years. After this, it will shed its outer layers and become a dense type of cooling star known as a white dwarf, and no longer produce energy by fusion, but still glow and give off heat from its previous fusion.
+</font>
+<font size="3"color="red"face="arial black"> 
+  <P ALIGN="left">The enormous effect of the Sun on Earth has been recognized since prehistoric times. The Sun was thought of by some cultures as a deity. The synodic rotation of Earth and its orbit around the Sun are the basis of some solar calendars. The predominant calendar in use today is the Gregorian calendar which is based upon the standard 16th Century interpretation that the Sun's observed movement is primarily due to it actually moving.
+</font>
+<font size="3"color="orange"face="arial black">
+<P ALIGN="left"><h4>The Sun emits light across the visible spectrum, so its color is white, with a CIE color-space index near (0.3, 0.3), when viewed from space or when the Sun is high in the sky. The Solar radiance per wavelength peaks in the green portion of the spectrum when viewed from space <h4>
+</font>
+<font size="3"color="orange"face="arial black">
+   <P ALIGN="left">Since the Sun formed, the main fusion process has involved fusing hydrogen into helium. Over the past 4.6 billion years, the amount of helium and its location within the Sun has gradually changed. Within the core, the proportion of helium has increased from about 24% to about 60% due to fusion, and some of the helium and heavy elements have settled from the photosphere towards the center of the Sun because of gravity. The proportions of metals (heavier elements) is unchanged. Heat is transferred outward from the Sun's core by radiation rather than by convection (see Radiative zone below), so the fusion products are not lifted outward by heat; they remain in the core and gradually an inner core of helium has begun to form that cannot be fused because presently the Sun's core is not hot or dense enough to fuse helium. In the current photosphere, the helium fraction is reduced, and the metallicity is only 84% of what it was in the protostellar phase (before nuclear fusion in the core started). In the future, helium will continue to accumulate in the core, and in about 5 billion years this gradual build-up will eventually cause the Sun to exit the main sequence and become a red giant.
+</font>
+<P><video src="Sun 101 _ National Geographic.mp4" controls="controls" loop="true"  >
+
+<table border="2" height="150" width="1300" cell padding="20" align="centre" cell spacing="19" >
+
+  <tr>
+    <th align="centre"> Mass</th>
+    <th align="centre">Age </th>
+    <th align="centre">Distance</th>
+    <th align="centre">Moons </th>
+    <th align="centre">Surface temperature</th>
+    <th align="centre">Gravity</th>
+</tr>
+  <tr>
+    <td align="centre"> 1.989 × 10<sup>30</sup>kg</td>
+     <td align="centre"> 4.603 billion years</td>
+      <td align="centre"> 149.6 million km</td>
+      <td align="centre">3122 Florence, 90482 Orcus</td>
+     <td align="centre">5778 kelvin or5504.85 celsius </td>
+     <td align="centre">274 m/s<sup>2</sup></td>
+  </tr>
+</table>
+<font size="3"color="red"face="arial black">
+  <P ALIGN="left">The chemical composition of the photosphere is normally considered representative of the composition of the primordial Solar System. The solar heavy-element abundances described above are typically measured both using spectroscopy of the Sun's photosphere and by measuring abundances in meteorites that have never been heated to melting temperatures. These meteorites are thought to retain the composition of the protostellar Sun and are thus not affected by the settling of heavy elements. 
+<a href="#KTS">Sun  produces heat energy by nuclear fusion </A>
+</font>
+<font size="3"color="red"face="arial black">
+
+
+<font size="3"color="ORANGE"face="arial black">
+<P><a href ="https://www.youtube.com/channel/UCHAh7Yuaw_GVB4rpW8np4zA/videos"> Kush teacing series</a>
+<P><h3>Some Govt. Organisation working on Space Tech. and reaserch<h3>
+<ol>
+  <li><details>
+  <summary>ISRO</summary>
+<a href ="https://www.isro.gov.in/"> WEBSITE</a>
+</details></li>
+  <li><details>
+  <summary>NASA</summary>
+<a href ="https://www.nasa.gov/"> WEBSITE</a>
+</details></li>
+<P><h3>Some Govt. Organisation working on Space Tech. and reaserch<h3>
+  <li><details>
+  <summary>SPACEX</summary>
+<a href ="https://www.spacex.com/"> WEBSITE</a>
+</details></li>
+  <li><details>
+  <summary>Blue Origin</summary>
+<a href ="https://www.blueorigin.com/"> WEBSITE</a>
+</details></li>
+<marquee><img src="800px-BLUE_STEREO_3D_Time_for_Space_Wiggle.gif" height="160" width="200"></marquee>
+
+</font>
+</BODY>
+</HTML>

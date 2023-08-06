@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<image.pngimage.pngimage.pnghtml lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practicle</title>
+</head>
+<body>
+
+    
+<script>
+  
+    // Function to generate OTP
+    function generateOTP() {
+              
+        // Declare a digits variable 
+        // which stores all digits
+        var digits = '0123456789';
+        let OTP = '';
+        for (let i = 0; i < 4; i++ ) {
+            OTP += digits[Math.floor(Math.random() * 10)];
+        }
+        return OTP;
+    }
+      
+    document.write("OTP of 4 digits: ")
+    document.write( generateOTP() );
+    </script>  
+    
+    <P>
+        <script>
+
+            // Function to generate OTP
+            function generateOTP() {
+                    
+                // Declare a digits variable
+                // which stores all digits
+                var digits = '0123456789';
+                let OTP = '';
+                for (let i = 0; i < 6; i++ ) {
+                    OTP += digits[Math.floor(Math.random() * 10)];
+                }
+                return OTP;
+            }
+            
+            document.write("OTP of 6 digits: ")
+            document.write( generateOTP() );
+            </script>	
+            <p>
+                <script>
+
+                    // Function to generate OTP
+                    function generateOTP() {
+                            
+                        // Declare a string variable
+                        // which stores all string
+                        var string = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+                        let OTP = '';
+                        
+                        // Find the length of string
+                        var len = string.length;
+                        for (let i = 0; i < 6; i++ ) {
+                            OTP += string[Math.floor(Math.random() * len)];
+                        }
+                        return OTP;
+                    }
+                    
+                    document.write("OTP of 6 length Numeric: ")
+                    document.write( generateOTP() );
+                    </script>					
+                    
+</body>
+</html>
