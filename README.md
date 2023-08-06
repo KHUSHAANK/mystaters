@@ -1,7 +1,5 @@
 # mystaters
 These are the lines of my first project
-# My First Projects Repository
-
 This repository is a playground for practicing, exploring, improving, and having fun while learning the ropes of programming and software development. Whether you're a beginner looking to dip your toes into coding or an experienced developer seeking a creative outlet, this repository is the perfect place to experiment and grow.
 
 ## Purpose
@@ -64,10 +62,5 @@ Please note that this repository follows a [Code of Conduct](CODE_OF_CONDUCT.md)
 
 Whether you're a seasoned developer or a curious beginner, this repository is here to support your learning journey. Feel free to dive in, explore the projects, tutorials, challenges, and resources, and let your creativity and curiosity run wild. Happy coding!
 
-_Your Name_
-_Contact Information_
-_Date_
-
----
-
-*Note: Make sure to replace placeholders like `your-username`, `feature/new-project`, and the author's contact information with the appropriate details.*
+Khushaank Gupta
+codewithkhush@gmail.com
